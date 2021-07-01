@@ -43,7 +43,7 @@ const Sdata = [
         imgsrc:web,
         title:"Statewise Covid-19",
         text:"Checking live no.of.cases per day Covid-19 in India using API. You can visit the App by clicking on the button below.",
-        link:""
+        link:"https://indiadatacovid19.herokuapp.com"
         
     },
 
