@@ -2,8 +2,7 @@ import app from "./Images/netflix-logo.jpg";
 import web from "./Images/COVID19.jpg";
 import git from "./Images/github.jpg";
 import music from "./Images/music.jpg";
-
-
+import logo from "./Images/logo.jpg";
 
 const Sdata = [
     {
@@ -44,6 +43,14 @@ const Sdata = [
         title:"Statewise Covid-19",
         text:"Checking live no.of.cases per day Covid-19 in India using API. You can visit the App by clicking on the button below.",
         link:"https://indiadatacovid19.herokuapp.com"
+        
+    },
+    {
+      
+        imgsrc:logo,
+        title:"Youtube Clone",
+        text:"Built a Youtube Clone using Front End Technology HTML5,CSS3,Javascript and using API from Google Cloud Support .",
+        link:"https://github.com/Abhinay1999-creator/YoutubeClone"
         
     },
 
