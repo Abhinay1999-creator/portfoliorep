@@ -50,7 +50,7 @@ const Sdata = [
         imgsrc:logo,
         title:"Youtube Clone",
         text:"Built a Youtube Clone using Front End Technology HTML5,CSS3,Javascript and using API from Google Cloud Support .",
-        link:"https://github.com/Abhinay1999-creator/YoutubeClone"
+        link:"https://youtube-clone-sooty.vercel.app/"
         
     },
 
