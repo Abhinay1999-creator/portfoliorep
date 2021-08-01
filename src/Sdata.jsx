@@ -2,7 +2,7 @@ import app from "./Images/netflix-logo.jpg";
 import web from "./Images/COVID19.jpg";
 import git from "./Images/github.jpg";
 import music from "./Images/music.jpg";
-import logo from "./Images/logo.png";
+import logo from "./Images/th.jpg";
 
 const Sdata = [
     {
